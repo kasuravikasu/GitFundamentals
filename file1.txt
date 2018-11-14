@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 file1 welcome txt
+
+its great to see you
 =======
 file1 welcome txt
 >>>>>>> origin/master
