@@ -1,0 +1,2 @@
+file2 welcome txt
+addign another line in file2
