@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 file2 welcome txt
+=======
+file2 welcome txt
+>>>>>>> origin/master
 addign another line in file2
