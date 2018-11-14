@@ -3,6 +3,7 @@ file1 welcome txt
 
 its great to see you
 new text i want to see in git repo
+added comment in GIT repo
 =======
 file1 welcome txt
 >>>>>>> origin/master
